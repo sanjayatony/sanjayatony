@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my personal blog using [Nuxt Content](https://content.nuxtjs.org/).
+🔭 I’m currently working on my personal blog using ~Nuxt Content~ [Gridsome](https://gridsome.org).
 
 🌱 I’m currently learning Javascript. Tried React (Next) and Vue (Nuxt), but my heart fall to Vue.
 
