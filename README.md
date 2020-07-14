@@ -6,7 +6,7 @@
 
 💬 Ask me about WordPress stuff. My daily life is a web developer, and most of it using WordPress
 
-📫 Mention me [@sanjayatony](https://twitter.com/sanjayatony) or send email to hi@tonysanjaya.me
+📫 Mention me [@sanjayatony](https://twitter.com/sanjayatony) or send email to tony@sanjaya.info
 
 😄 Pronouns: He/His
 
