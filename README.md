@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my personal blog using [Nuxt Content](https://content.nuxtjs.org/).
+I am Tony, a web developer and a dad, devdad, from Indonesia. I have been a professional web developer since 2012.
 
-🌱 I’m currently learning Javascript. Tried React (Next) and Vue (Nuxt), but my heart fall to Vue.
+Since then, I have built many kinds of websites, and focus more on WordPress. WordPress theme, plugin, maintenance, anything related to WordPress, you name it.
 
-💬 Ask me about WordPress stuff. My daily life is a web developer, and most of it using WordPress
 
-📫 Mention me [@sanjayatony](https://twitter.com/sanjayatony) or send email to tony@sanjaya.info
+📫  Mention me [@sanjayatony](https://twitter.com/sanjayatony) or send email to tony@sanjaya.info
 
-😄 Pronouns: He/His
-
-⚡ Fun fact: Big fans of Kamen Rider, Ultraman, anime. Currently watching Ultraman Z and Inuyasha.
 
 
 
