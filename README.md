@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am Tony, a web developer and a dad, devdad, from Indonesia. 
+I am Tony, a web developer and a dad, devdad, from Indonesia.<br> 
 I have been a professional web developer since 2012.
 
-Since then, I have built many kinds of websites, and focus more on WordPress. 
+Since then, I have built many kinds of websites, and focus more on WordPress. <br>
 WordPress theme, plugin, maintenance, anything related to WordPress, you name it.
 
 
