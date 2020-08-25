@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-I am Tony, a web developer and a dad, devdad, from Indonesia. I have been a professional web developer since 2012.
+I am Tony, a web developer and a dad, devdad, from Indonesia. 
+I have been a professional web developer since 2012.
 
-Since then, I have built many kinds of websites, and focus more on WordPress. WordPress theme, plugin, maintenance, anything related to WordPress, you name it.
+Since then, I have built many kinds of websites, and focus more on WordPress. 
+WordPress theme, plugin, maintenance, anything related to WordPress, you name it.
 
 
-📫  Mention me [@sanjayatony](https://twitter.com/sanjayatony) or send email to tony@sanjaya.info
+Mention me [@sanjayatony](https://twitter.com/sanjayatony) or send email to tony@sanjaya.info
 
 
 
